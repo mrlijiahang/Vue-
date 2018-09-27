@@ -1,3 +1,7 @@
+### 基础用法
+::: code
+
+```html
 vue init webpack-simple vue-skeleton-screen
 然后就有了这个目录
 ├── package.json
@@ -19,3 +23,4 @@ npm install
 然后 npm run lijiahang
 
 然后把network 网速弄成3g
+:::
